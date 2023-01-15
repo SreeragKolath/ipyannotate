@@ -13,7 +13,7 @@ In this repository, i am labelling images using  ipyannotate. The repository con
 
 👉 You can install ipyannotate using :
 
-!pip install ipyannotate
+      !pip install ipyannotate
 
 👉 Three reasons why **ipyannotate** is convenient :
 
