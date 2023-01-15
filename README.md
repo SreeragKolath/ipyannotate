@@ -15,9 +15,10 @@ In this repository, i am labelling images using  ipyannotate. The repository con
 
 !pip install ipyannotate
 
-👉 Three reasons why ipyannotate is convenient :
+👉 Three reasons why **ipyannotate** is convenient :
 
 - format the data in a json or xml file.
+
 - Data Presentation
 
   <img width="641" alt="snap4" src="https://user-images.githubusercontent.com/31788971/212521155-05e210a6-f573-4b30-a086-11e1f3318528.png">
